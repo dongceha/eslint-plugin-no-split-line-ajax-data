@@ -22,8 +22,8 @@ Add `no-split-line-ajax-data` to the plugins section of your `.eslintrc` configu
 
 ```json
 {
-    "plugins": [
-        "no-split-line-ajax-data"
+    "extends": [
+        "plugins:no-split-line-ajax-data/recommended"
     ]
 }
 ```

@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-no-split-line-ajax-data",
-  "version": "0.0.4",
-  "description": "no-split-line-ajax-data",
+  "name": "eslint-plugin-dc",
+  "version": "0.0.1",
+  "description": "dc-eslint-plugin",
   "keywords": [
     "eslint",
     "eslintplugin",

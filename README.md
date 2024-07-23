@@ -1,6 +1,7 @@
-# eslint-plugin-no-split-line-ajax-data
+# eslint-plugin-dc
 
-no-split-line-ajax-data
+-dc
+
 
 ## Installation
 
@@ -14,4 +15,8 @@ Next, install `eslint-plugin-dc`:
 
 ```sh
 npm i eslint-plugin-dc --save-dev
+```
+
+```js
+'plugin:dc/recommended'
 ```
